@@ -1,4 +1,4 @@
-#Projeto módulo 5 - Crédito para Financiamento de Imóveis
+# Projeto módulo 5 - Crédito para Financiamento de Imóveis
 
 Contextualização
 A PyCoders Ltda., cada vez mais especializada no mundo da Inteligência Artificial e Ciência de Dados, foi procurada por uma fintech para desenvolver um projeto de concessão de crédito para imóveis. Nesse projeto, espera-se a criação de valor que discrimine ao máximo os bons pagadores dos maus pagadores.
