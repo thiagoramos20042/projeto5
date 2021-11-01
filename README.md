@@ -1,3 +1,5 @@
+![alt text](https://fdr.com.br/wp-content/uploads/2020/12/imovel-financiamento-aluguel-1593808631898_v2_750x421.jpg)
+
 # Projeto módulo 5 - Crédito para Financiamento de Imóveis
 
 # Contextualização
