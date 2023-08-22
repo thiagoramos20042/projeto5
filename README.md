@@ -32,7 +32,7 @@ Essa base deverá ser um Data Frame com duas colunas: a primeira sendo o SK_ID_C
 # IMPORTANTE!
 Entregar as predições com a probabilidade da inadimplência ocorrer, não a classe predita.
 
-Além do arquivo com as predições, claro, entreugem também o notebook com o código utilizado. É importante que ele tenha:
+Além do arquivo com as predições, claro, entreguem também o notebook com o código utilizado. É importante que ele tenha:
 
 (i) a análise exploratória e construção das variáveis explicativas;
 
