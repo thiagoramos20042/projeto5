@@ -2,9 +2,9 @@
 
 Experimentos de classificação e balanceamento para estimar probabilidade de inadimplência em crédito imobiliário.
 
-**Machine learning** · Projeto de curso em equipe
+**Data Science** · Projeto de curso em equipe
 
-[← Portfólio de Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
+[← Data Science, IA e Automações · Thiago Oliveira](https://github.com/thiagoramos20042/thiagoramos20042) · [Catálogo de projetos](https://github.com/thiagoramos20042/thiagoramos20042/blob/main/PROJETOS.md)
 
 ## Objetivo
 
